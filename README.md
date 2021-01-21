@@ -1,2 +1,2 @@
 # Python-Machine-Learning
-Machine Learning examples using Pandas, Numpy, Matplotlib, Seaborn, and Scikit Learn
+Machine Learning exercises with Jose Portilla using Pandas, Numpy, Matplotlib, Seaborn, and Scikit Learn
