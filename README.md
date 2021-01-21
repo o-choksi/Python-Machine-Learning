@@ -1,2 +1,2 @@
 # Python-Machine-Learning
-Machine Learning exercises with Jose Portilla using Pandas, Numpy, Matplotlib, Seaborn, and Scikit Learn
+Machine Learning exercises and examples with Jose Portilla on Udemy. These exercises involve Pandas, Numpy, Matplotlib, Seaborn, and Scikit Learn libraries
