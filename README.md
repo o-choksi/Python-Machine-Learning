@@ -1,2 +1,2 @@
 # Python-Machine-Learning
-Machine Learning using Pandas, Numpy, Matplotlib, Seaborn, and Scikit Learn
+Machine Learning examples using Pandas, Numpy, Matplotlib, Seaborn, and Scikit Learn
